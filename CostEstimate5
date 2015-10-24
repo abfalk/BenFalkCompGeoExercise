@@ -3,6 +3,7 @@
 
 #PROBLEMS RIGHT NOW: 
 #     Probably doesn't work for off axis (diagonal) curves #fixed (still need to test)
+#     
 #place .json file into memory
 #syntax: where both userDirectory and filename are strings, editable in Main()
 from collections import OrderedDict    

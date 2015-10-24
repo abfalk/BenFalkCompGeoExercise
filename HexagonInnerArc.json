@@ -1,0 +1,90 @@
+{
+  "Edges": {
+    "1": {
+      "Type": "LineSegment",
+      "Vertices": [
+        11,
+        22
+      ]
+    },
+    
+    "2": {
+      "Type": "LineSegment",
+      "Vertices": [
+        22,
+        33
+      ]
+    },
+    "3": {
+      "Type": "LineSegment",
+      "Vertices": [
+        33,
+        44
+      ]
+    },
+    "4": {
+      "Type": "CircularArc",
+      "Vertices": [
+        44,
+        55
+      ],
+      "Center": {
+        "X": 4.0,
+        "Y": 6.0
+      },
+      "ClockwiseFrom": 44
+    },
+    "5": {
+      "Type": "LineSegment",
+      "Vertices": [
+        55,
+        66
+      ]
+    },
+    "6": {
+      "Type": "LineSegment",
+      "Vertices": [
+        66,
+        11
+      ]
+    }
+  },
+  "Vertices": {
+    "11": {
+      "Position": {
+        "X": 2.0,
+        "Y": 0.0
+      }
+    },
+    "22": {
+      "Position": {
+        "X": 6.0,
+        "Y": 0.0
+      }
+    },
+    "33": {
+      "Position": {
+        "X": 8.0,
+        "Y": 3.0
+      }
+    },
+    "44": {
+      "Position": {
+        "X": 6.0,
+        "Y": 6.0
+      }
+    },
+    "55": {
+      "Position": {
+        "X": 2.0,
+        "Y": 6.0
+      }
+    },
+    "66": {
+      "Position": {
+        "X": 0.0,
+        "Y": 3.0
+      }
+    }
+  }
+}

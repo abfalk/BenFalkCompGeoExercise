@@ -1,0 +1,3 @@
+To use this code, edit the path and filename strings to whatever .json file you wish for a cost estimate for and the path that file is located in.
+
+With more time, I would have tested different shapes with as many arcs as I could, but manually creating .json files for any conceivable geometry is tedious work.

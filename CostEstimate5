@@ -125,7 +125,7 @@ def FindArea(X,Y,numPoints):
     
 def Main():
     myDirectory = 'C:\\Users\\falka\\python files\\'                             #to change directory (must be string)
-    filename = 'HexagonOuterArc.json'                                              #to change file (must be string)
+    filename = 'HexagonInnerArc.json'                                              #to change file (must be string)
     PlaceIntoMemory(myDirectory,filename) 
     Initialize()
     FindDistances()
